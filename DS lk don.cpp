@@ -53,15 +53,7 @@ void nhap(List &F) {
 }
 
 
-main(){
-	int n;
-	F = NULL;
-	Create(F);
-//	printf("nhap so phan tu: "); scanf("%d", &n);
-//	for (int i=0; i<=n-1; i++)
-	nhap(F);
-	Display(F);
-	
+
 }
 
 
